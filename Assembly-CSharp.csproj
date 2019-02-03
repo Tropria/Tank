@@ -115,6 +115,7 @@
     <Compile Include="Assets\Scripts\Tools\ISExplosion.cs" />
     <Compile Include="Assets\Scripts\Tools\ISMath.cs" />
     <Compile Include="Assets\Scripts\Unit.cs" />
+    <Compile Include="Assets\Scripts\VictoryButton.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
     <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
