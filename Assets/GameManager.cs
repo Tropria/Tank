@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour {
     public GameObject titlePrefab;
     [HideInInspector] public GameObject[] titles = new GameObject[6];
 
-    public static string functionsString = "1+1=2\n2+2=4\n3*3=9\n";
+    public static string functionsString = "1+1= 2+2= 3*3= ";
 
 
     public GameObject SpawnPoint1;
