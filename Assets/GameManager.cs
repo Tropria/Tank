@@ -70,6 +70,11 @@ public class GameManager : MonoBehaviour {
 
     // Update is called once per frame
     void Update () {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
         //Debug.Log("Current health: " + m_Tanks[0].GetComponent<AITank>().health);
         if (m_Tanks[0]==null&& m_Tanks[1] == null && m_Tanks[2] == null && m_Tanks[3] == null && m_Tanks[4] == null && m_Tanks[5] == null)
         {
@@ -79,6 +84,8 @@ public class GameManager : MonoBehaviour {
         {
             Application.LoadLevel("defeat");
         }
+
+        
         /*
         bool temp = false;
         for(int i=0; i<6; i++)
@@ -86,6 +93,6 @@ public class GameManager : MonoBehaviour {
             if (m_Tanks[i] == null) { }
             else { temp=}
         }*/
-        
-	}
+
+    }
 }

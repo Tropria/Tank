@@ -113,6 +113,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.VictoryButton
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp.dll:.TankCamera
 322cb40e1e282f28af980cbef7922a90 UnityEngine.Analytics.dll:UnityEngine.Analytics.AnalyticsEventTracker
@@ -162,4 +163,3 @@ a764ed39791e886a53f13cfce418447e Assembly-CSharp.dll:UnityEngine.PostProcessing.
 cd5bbadabcb4eff9af36eb3198ccfb3a Assembly-CSharp.dll:.HUDUserInterface
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.LayerManager
 8b3f0ecf9cfa5d680ca538f6fd1a39c9 Assembly-CSharp.dll:.ISExplosion
-05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.VictoryButton
